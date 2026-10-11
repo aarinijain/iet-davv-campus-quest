@@ -1,4 +1,7 @@
 # IET DAVV Campus Quest
+**Live demo:** https://ietdavv-campus-quest.netlify.app
+
+Tip: open it on a phone. Use Demo mode to try the whole flow without being on campus.
 
 A location-based clue hunt for the IET DAVV campus in Indore. Squads solve a quiz,
 decode a riddle, walk to the place, and prove they were there with a stamped selfie.
